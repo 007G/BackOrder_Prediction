@@ -48,7 +48,7 @@ def index():
             forecast_6_month = float(request.form['forecast_6_month'])
             forecast_9_month = float(request.form['forecast_9_month'])
             perf_6_month_avg = float(request.form['perf_6_month_avg'])
-            perf_9_month_avg = float(request.form['perf_9_month_avg'])
+            perf_12_month_avg = float(request.form['perf_12_month_avg'])
 
             """
             CURRENTLY WORKING ON THIS 
@@ -61,7 +61,7 @@ def index():
             prediction = predict.prediction_data()
             """
             #using pickle
-            tranfm_f = loaded_scalar.transform([[national_inv,sales_3_month,sales_6_month,sales_9_month,forecast_3_month,forecast_6_month,forecast_9_month,perf_6_month_avg,perf_9_month_avg]])
+            tranfm_f = loaded_scalar.transform([[national_inv,sales_3_month,sales_6_month,sales_9_month,forecast_3_month,forecast_6_month,forecast_9_month,perf_6_month_avg,perf_12_month_avg]])
             ans = loaded_model.predict(tranfm_f)
             # showing the prediction results in a UI
             if(ans[0]==0):
