@@ -1,0 +1,442 @@
+
+2022-01-05/20:22:22		Entered the get_best_model method of the Model_Finder class
+
+2022-01-05/20:22:22		Entered the get_best_params_for_xgboost method of the Model_Finder class
+
+2022-01-05/20:22:57		XGBoost best params: {'learning_rate': 0.1, 'max_depth': 5, 'n_estimators': 200}. Exited the get_best_params_for_xgboost method of the Model_Finder class
+
+2022-01-05/20:22:21		Training Operation Started....
+
+2022-01-05/20:22:59		class : training , filelocation : trainingfile.py : Unsuccessful End of TrainingI/O operation on closed file.
+
+2022-01-05/21:29:44		Entered the get_best_model method of the Model_Finder class
+
+2022-01-05/21:29:44		Entered the get_best_params_for_xgboost method of the Model_Finder class
+
+2022-01-05/21:29:59		XGBoost best params: {'learning_rate': 0.1, 'max_depth': 5, 'n_estimators': 200}. Exited the get_best_params_for_xgboost method of the Model_Finder class
+
+2022-01-05/21:29:43		Training Operation Started....
+
+2022-01-05/21:29:59		class : training , filelocation : trainingfile.py : Unsuccessful End of TrainingI/O operation on closed file.
+
+2022-01-05/21:45:09		Entered the get_best_model method of the Model_Finder class
+
+2022-01-05/21:45:09		Entered the get_best_params_for_xgboost method of the Model_Finder class
+
+2022-01-05/21:45:19		XGBoost best params: {'learning_rate': 0.1, 'max_depth': 5, 'n_estimators': 200}. Exited the get_best_params_for_xgboost method of the Model_Finder class
+
+2022-01-05/21:45:19		AUC for XGBoost:0.9689265536723164
+
+2022-01-05/21:45:19		Entered the get_best_params_for_random_forest method of the Model_Finder class
+
+2022-01-05/21:45:57		Random Forest Classifier best params: {'n_estimators': 600, 'min_samples_split': 2, 'min_samples_leaf': 1, 'max_features': 'sqrt', 'max_depth': 120, 'criterion': 'entropy'}. Exited the get_best_params_for_random_forest method of the Model_Finder class
+
+2022-01-05/21:45:09		Training Operation Started....
+
+2022-01-05/21:45:58		class : training , filelocation : trainingfile.py : Unsuccessful End of TrainingI/O operation on closed file.
+
+2022-01-05/21:46:04		Entered the get_best_model method of the Model_Finder class
+
+2022-01-05/21:46:04		Entered the get_best_params_for_xgboost method of the Model_Finder class
+
+2022-01-05/21:46:12		XGBoost best params: {'learning_rate': 0.1, 'max_depth': 5, 'n_estimators': 200}. Exited the get_best_params_for_xgboost method of the Model_Finder class
+
+2022-01-05/21:46:12		AUC for XGBoost:0.9689265536723164
+
+2022-01-05/21:46:12		Entered the get_best_params_for_random_forest method of the Model_Finder class
+
+2022-01-05/21:46:49		Random Forest Classifier best params: {'n_estimators': 1400, 'min_samples_split': 2, 'min_samples_leaf': 2, 'max_features': 'sqrt', 'max_depth': 1000, 'criterion': 'entropy'}. Exited the get_best_params_for_random_forest method of the Model_Finder class
+
+2022-01-05/21:46:03		Training Operation Started....
+
+2022-01-05/21:46:49		class : training , filelocation : trainingfile.py : Unsuccessful End of TrainingI/O operation on closed file.
+
+2022-01-05/21:50:37		Entered the get_best_model method of the Model_Finder class
+
+2022-01-05/21:50:37		Entered the get_best_params_for_xgboost method of the Model_Finder class
+
+2022-01-05/21:50:46		XGBoost best params: {'learning_rate': 0.1, 'max_depth': 5, 'n_estimators': 200}. Exited the get_best_params_for_xgboost method of the Model_Finder class
+
+2022-01-05/21:50:46		AUC for XGBoost:0.9689265536723164
+
+2022-01-05/21:51:13		Entered the save_model method of the Model_Operation class
+
+2022-01-05/21:51:13		Model File Random Forest saved. Exited the save_model method of the Model_Finder class
+
+2022-01-05/21:50:37		Training Operation Started....
+
+2022-01-05/21:51:13		Training Operation Completed SuccessFully....
+
+2022-01-05/21:50:46		Entered the get_best_params_for_random_forest method of the Model_Finder class
+
+2022-01-05/21:51:12		Random Forest Classifier best params: {'n_estimators': 600, 'min_samples_split': 2, 'min_samples_leaf': 1, 'max_features': 'sqrt', 'max_depth': 120, 'criterion': 'entropy'}. Exited the get_best_params_for_random_forest method of the Model_Finder class
+
+2022-01-05/21:51:13		AUC for Random forest Model :0.9717514124293785
+
+2022-01-05/21:54:03		Entered the find_correct_model_file method of the Model_Operation class
+
+2022-01-05/21:54:03		Exited the find_correct_model_file method of the Model_Operation class.
+
+2022-01-05/21:54:03		Entered the load_model method of the Model_Operation class
+
+2022-01-05/21:54:03		Model File Random Forest loaded. Exited the load_model method of the Model_Finder class
+
+2022-01-12/00:43:35		Entered the find_correct_model_file method of the Model_Operation class
+
+2022-01-12/00:43:35		Exited the find_correct_model_file method of the Model_Operation class.
+
+2022-01-12/00:43:35		Entered the load_model method of the Model_Operation class
+
+2022-01-12/00:43:35		Model File Random Forest loaded. Exited the load_model method of the Model_Finder class
+
+2022-01-19/03:00:53		Entered the find_correct_model_file method of the Model_Operation class
+
+2022-01-19/03:00:53		Exited the find_correct_model_file method of the Model_Operation class.
+
+2022-01-19/03:00:53		Entered the load_model method of the Model_Operation class
+
+2022-01-19/03:00:53		Model File Random Forest loaded. Exited the load_model method of the Model_Finder class
+
+2022-01-19/03:08:44		Entered the find_correct_model_file method of the Model_Operation class
+
+2022-01-19/03:08:44		Exited the find_correct_model_file method of the Model_Operation class.
+
+2022-01-19/03:08:44		Entered the load_model method of the Model_Operation class
+
+2022-01-19/03:08:44		Model File Random Forest loaded. Exited the load_model method of the Model_Finder class
+
+2022-01-19/03:12:39		Entered the find_correct_model_file method of the Model_Operation class
+
+2022-01-19/03:12:39		Exited the find_correct_model_file method of the Model_Operation class.
+
+2022-01-19/03:12:39		Entered the load_model method of the Model_Operation class
+
+2022-01-19/03:12:39		Model File Random Forest loaded. Exited the load_model method of the Model_Finder class
+
+2022-01-19/03:14:39		Entered the find_correct_model_file method of the Model_Operation class
+
+2022-01-19/03:14:39		Exited the find_correct_model_file method of the Model_Operation class.
+
+2022-01-19/03:14:39		Entered the load_model method of the Model_Operation class
+
+2022-01-19/03:14:39		Model File Random Forest loaded. Exited the load_model method of the Model_Finder class
+
+2022-01-19/03:15:07		Entered the find_correct_model_file method of the Model_Operation class
+
+2022-01-19/03:15:07		Exited the find_correct_model_file method of the Model_Operation class.
+
+2022-01-19/03:15:07		Entered the load_model method of the Model_Operation class
+
+2022-01-19/03:15:07		Model File Random Forest loaded. Exited the load_model method of the Model_Finder class
+
+2022-01-19/03:19:17		Entered the find_correct_model_file method of the Model_Operation class
+
+2022-01-19/03:19:17		Exited the find_correct_model_file method of the Model_Operation class.
+
+2022-01-19/03:19:17		Entered the load_model method of the Model_Operation class
+
+2022-01-19/03:19:17		Model File Random Forest loaded. Exited the load_model method of the Model_Finder class
+
+2022-01-19/03:20:25		Entered the find_correct_model_file method of the Model_Operation class
+
+2022-01-19/03:20:25		Exited the find_correct_model_file method of the Model_Operation class.
+
+2022-01-19/03:20:25		Entered the load_model method of the Model_Operation class
+
+2022-01-19/03:20:25		Model File Random Forest loaded. Exited the load_model method of the Model_Finder class
+
+2022-01-19/03:26:38		Entered the find_correct_model_file method of the Model_Operation class
+
+2022-01-19/03:26:38		Exited the find_correct_model_file method of the Model_Operation class.
+
+2022-01-19/03:26:38		Entered the load_model method of the Model_Operation class
+
+2022-01-19/03:26:38		Model File Random Forest loaded. Exited the load_model method of the Model_Finder class
+
+2022-01-19/03:27:01		Entered the find_correct_model_file method of the Model_Operation class
+
+2022-01-19/03:27:01		Exited the find_correct_model_file method of the Model_Operation class.
+
+2022-01-19/03:27:01		Entered the load_model method of the Model_Operation class
+
+2022-01-19/03:27:01		Model File Random Forest loaded. Exited the load_model method of the Model_Finder class
+
+2022-01-19/03:27:47		Entered the find_correct_model_file method of the Model_Operation class
+
+2022-01-19/03:27:47		Exited the find_correct_model_file method of the Model_Operation class.
+
+2022-01-19/03:27:47		Entered the load_model method of the Model_Operation class
+
+2022-01-19/03:27:47		Model File Random Forest loaded. Exited the load_model method of the Model_Finder class
+
+2022-01-19/03:31:12		Entered the find_correct_model_file method of the Model_Operation class
+
+2022-01-19/03:31:12		Exited the find_correct_model_file method of the Model_Operation class.
+
+2022-01-19/03:31:12		Entered the load_model method of the Model_Operation class
+
+2022-01-19/03:31:12		Model File Random Forest loaded. Exited the load_model method of the Model_Finder class
+
+2022-01-19/03:32:07		Entered the find_correct_model_file method of the Model_Operation class
+
+2022-01-19/03:32:07		Exited the find_correct_model_file method of the Model_Operation class.
+
+2022-01-19/03:32:07		Entered the load_model method of the Model_Operation class
+
+2022-01-19/03:32:07		Model File Random Forest loaded. Exited the load_model method of the Model_Finder class
+
+2022-01-19/03:32:44		Entered the find_correct_model_file method of the Model_Operation class
+
+2022-01-19/03:32:44		Exited the find_correct_model_file method of the Model_Operation class.
+
+2022-01-19/03:32:44		Entered the load_model method of the Model_Operation class
+
+2022-01-19/03:32:44		Model File Random Forest loaded. Exited the load_model method of the Model_Finder class
+
+2022-01-19/03:33:10		Entered the find_correct_model_file method of the Model_Operation class
+
+2022-01-19/03:33:10		Exited the find_correct_model_file method of the Model_Operation class.
+
+2022-01-19/03:33:10		Entered the load_model method of the Model_Operation class
+
+2022-01-19/03:33:10		Model File Random Forest loaded. Exited the load_model method of the Model_Finder class
+
+2022-01-19/03:34:45		Entered the find_correct_model_file method of the Model_Operation class
+
+2022-01-19/03:34:45		Exited the find_correct_model_file method of the Model_Operation class.
+
+2022-01-19/03:34:45		Entered the load_model method of the Model_Operation class
+
+2022-01-19/03:34:45		Model File Random Forest loaded. Exited the load_model method of the Model_Finder class
+
+2022-01-19/03:35:21		Entered the find_correct_model_file method of the Model_Operation class
+
+2022-01-19/03:35:21		Exited the find_correct_model_file method of the Model_Operation class.
+
+2022-01-19/03:35:21		Entered the load_model method of the Model_Operation class
+
+2022-01-19/03:35:21		Model File Random Forest loaded. Exited the load_model method of the Model_Finder class
+
+2022-01-19/03:38:56		Entered the find_correct_model_file method of the Model_Operation class
+
+2022-01-19/03:38:56		Exited the find_correct_model_file method of the Model_Operation class.
+
+2022-01-19/03:38:56		Entered the load_model method of the Model_Operation class
+
+2022-01-19/03:38:56		Model File Random Forest loaded. Exited the load_model method of the Model_Finder class
+
+2022-01-19/03:40:40		Entered the find_correct_model_file method of the Model_Operation class
+
+2022-01-19/03:40:40		Exited the find_correct_model_file method of the Model_Operation class.
+
+2022-01-19/03:40:40		Entered the load_model method of the Model_Operation class
+
+2022-01-19/03:40:40		Model File Random Forest loaded. Exited the load_model method of the Model_Finder class
+
+2022-01-19/03:50:37		Entered the find_correct_model_file method of the Model_Operation class
+
+2022-01-19/03:50:37		Exited the find_correct_model_file method of the Model_Operation class.
+
+2022-01-19/03:50:37		Entered the load_model method of the Model_Operation class
+
+2022-01-19/03:50:37		Model File Random Forest loaded. Exited the load_model method of the Model_Finder class
+
+2022-01-20/01:26:55		Entered the find_correct_model_file method of the Model_Operation class
+
+2022-01-20/01:26:55		Exited the find_correct_model_file method of the Model_Operation class.
+
+2022-01-20/01:26:55		Entered the load_model method of the Model_Operation class
+
+2022-01-20/01:26:55		Model File Random Forest loaded. Exited the load_model method of the Model_Finder class
+
+2022-01-20/14:49:26		Entered the find_correct_model_file method of the Model_Operation class
+
+2022-01-20/14:49:26		Exited the find_correct_model_file method of the Model_Operation class.
+
+2022-01-20/14:49:26		Entered the load_model method of the Model_Operation class
+
+2022-01-20/14:49:26		Model File Random Forest loaded. Exited the load_model method of the Model_Finder class
+
+2022-01-20/15:23:09		Entered the find_correct_model_file method of the Model_Operation class
+
+2022-01-20/15:23:09		Exited the find_correct_model_file method of the Model_Operation class.
+
+2022-01-20/15:23:09		Entered the load_model method of the Model_Operation class
+
+2022-01-20/15:23:09		Model File Random Forest loaded. Exited the load_model method of the Model_Finder class
+
+2022-01-20/15:24:01		Entered the find_correct_model_file method of the Model_Operation class
+
+2022-01-20/15:24:01		Exited the find_correct_model_file method of the Model_Operation class.
+
+2022-01-20/15:24:01		Entered the load_model method of the Model_Operation class
+
+2022-01-20/15:24:01		Model File Random Forest loaded. Exited the load_model method of the Model_Finder class
+
+2022-01-20/15:24:12		Entered the find_correct_model_file method of the Model_Operation class
+
+2022-01-20/15:24:12		Exited the find_correct_model_file method of the Model_Operation class.
+
+2022-01-20/15:24:12		Entered the load_model method of the Model_Operation class
+
+2022-01-20/15:24:12		Model File Random Forest loaded. Exited the load_model method of the Model_Finder class
+
+2022-01-20/16:38:42		Entered the find_correct_model_file method of the Model_Operation class
+
+2022-01-20/16:38:42		Exited the find_correct_model_file method of the Model_Operation class.
+
+2022-01-20/16:38:42		Entered the load_model method of the Model_Operation class
+
+2022-01-20/16:38:42		Model File Random Forest loaded. Exited the load_model method of the Model_Finder class
+
+2022-01-20/16:40:36		Entered the find_correct_model_file method of the Model_Operation class
+
+2022-01-20/16:40:36		Exited the find_correct_model_file method of the Model_Operation class.
+
+2022-01-20/16:40:36		Entered the load_model method of the Model_Operation class
+
+2022-01-20/16:40:36		Model File Random Forest loaded. Exited the load_model method of the Model_Finder class
+
+2022-01-20/17:02:03		Entered the find_correct_model_file method of the Model_Operation class
+
+2022-01-20/17:02:03		Exited the find_correct_model_file method of the Model_Operation class.
+
+2022-01-20/17:02:03		Entered the load_model method of the Model_Operation class
+
+2022-01-20/17:02:03		Model File Random Forest loaded. Exited the load_model method of the Model_Finder class
+
+2022-01-20/17:07:59		Entered the find_correct_model_file method of the Model_Operation class
+
+2022-01-20/17:07:59		Exited the find_correct_model_file method of the Model_Operation class.
+
+2022-01-20/17:07:59		Entered the load_model method of the Model_Operation class
+
+2022-01-20/17:07:59		Model File Random Forest loaded. Exited the load_model method of the Model_Finder class
+
+2022-01-20/17:10:30		Entered the find_correct_model_file method of the Model_Operation class
+
+2022-01-20/17:10:30		Exited the find_correct_model_file method of the Model_Operation class.
+
+2022-01-20/17:10:30		Entered the load_model method of the Model_Operation class
+
+2022-01-20/17:10:30		Model File Random Forest loaded. Exited the load_model method of the Model_Finder class
+
+2022-01-20/17:17:31		Entered the find_correct_model_file method of the Model_Operation class
+
+2022-01-20/17:17:31		Exited the find_correct_model_file method of the Model_Operation class.
+
+2022-01-20/17:17:31		Entered the load_model method of the Model_Operation class
+
+2022-01-20/17:17:31		Model File Random Forest loaded. Exited the load_model method of the Model_Finder class
+
+2022-01-20/18:13:27		Entered the find_correct_model_file method of the Model_Operation class
+
+2022-01-20/18:13:27		Exited the find_correct_model_file method of the Model_Operation class.
+
+2022-01-20/18:13:27		Entered the load_model method of the Model_Operation class
+
+2022-01-20/18:13:27		Model File Random Forest loaded. Exited the load_model method of the Model_Finder class
+
+2022-01-20/18:15:06		Entered the find_correct_model_file method of the Model_Operation class
+
+2022-01-20/18:15:06		Exited the find_correct_model_file method of the Model_Operation class.
+
+2022-01-20/18:15:06		Entered the load_model method of the Model_Operation class
+
+2022-01-20/18:15:06		Model File Random Forest loaded. Exited the load_model method of the Model_Finder class
+
+2022-01-20/18:23:43		Entered the find_correct_model_file method of the Model_Operation class
+
+2022-01-20/18:23:43		Exited the find_correct_model_file method of the Model_Operation class.
+
+2022-01-20/18:23:43		Entered the load_model method of the Model_Operation class
+
+2022-01-20/18:23:43		Model File Random Forest loaded. Exited the load_model method of the Model_Finder class
+
+2022-01-20/18:26:16		Entered the find_correct_model_file method of the Model_Operation class
+
+2022-01-20/18:26:16		Exited the find_correct_model_file method of the Model_Operation class.
+
+2022-01-20/18:26:16		Entered the load_model method of the Model_Operation class
+
+2022-01-20/18:26:16		Model File Random Forest loaded. Exited the load_model method of the Model_Finder class
+
+2022-01-20/18:38:35		Entered the find_correct_model_file method of the Model_Operation class
+
+2022-01-20/18:38:35		Exited the find_correct_model_file method of the Model_Operation class.
+
+2022-01-20/18:38:35		Entered the load_model method of the Model_Operation class
+
+2022-01-20/18:38:35		Model File Random Forest loaded. Exited the load_model method of the Model_Finder class
+
+2022-01-20/18:48:34		Entered the find_correct_model_file method of the Model_Operation class
+
+2022-01-20/18:48:34		Exited the find_correct_model_file method of the Model_Operation class.
+
+2022-01-20/18:48:34		Entered the load_model method of the Model_Operation class
+
+2022-01-20/18:48:34		Model File Random Forest loaded. Exited the load_model method of the Model_Finder class
+
+2022-01-20/18:51:09		Entered the find_correct_model_file method of the Model_Operation class
+
+2022-01-20/18:51:09		Exited the find_correct_model_file method of the Model_Operation class.
+
+2022-01-20/18:51:09		Entered the load_model method of the Model_Operation class
+
+2022-01-20/18:51:09		Model File Random Forest loaded. Exited the load_model method of the Model_Finder class
+
+2022-01-20/18:52:10		Entered the find_correct_model_file method of the Model_Operation class
+
+2022-01-20/18:52:10		Exited the find_correct_model_file method of the Model_Operation class.
+
+2022-01-20/18:52:10		Entered the load_model method of the Model_Operation class
+
+2022-01-20/18:52:10		Model File Random Forest loaded. Exited the load_model method of the Model_Finder class
+
+2022-01-20/18:55:23		Entered the find_correct_model_file method of the Model_Operation class
+
+2022-01-20/18:55:23		Exited the find_correct_model_file method of the Model_Operation class.
+
+2022-01-20/18:55:23		Entered the load_model method of the Model_Operation class
+
+2022-01-20/18:55:23		Model File Random Forest loaded. Exited the load_model method of the Model_Finder class
+
+2022-01-20/19:28:59		Entered the find_correct_model_file method of the Model_Operation class
+
+2022-01-20/19:28:59		Exited the find_correct_model_file method of the Model_Operation class.
+
+2022-01-20/19:28:59		Entered the load_model method of the Model_Operation class
+
+2022-01-20/19:28:59		Model File Random Forest loaded. Exited the load_model method of the Model_Finder class
+
+2022-01-20/19:41:10		Entered the find_correct_model_file method of the Model_Operation class
+
+2022-01-20/19:41:10		Exited the find_correct_model_file method of the Model_Operation class.
+
+2022-01-20/19:41:10		Entered the load_model method of the Model_Operation class
+
+2022-01-20/19:41:10		Model File Random Forest loaded. Exited the load_model method of the Model_Finder class
+
+2022-01-20/19:54:36		Entered the find_correct_model_file method of the Model_Operation class
+
+2022-01-20/19:54:36		Exited the find_correct_model_file method of the Model_Operation class.
+
+2022-01-20/19:54:36		Entered the load_model method of the Model_Operation class
+
+2022-01-20/19:54:36		Model File Random Forest loaded. Exited the load_model method of the Model_Finder class
+
+2022-01-20/19:55:27		Entered the find_correct_model_file method of the Model_Operation class
+
+2022-01-20/19:55:27		Exited the find_correct_model_file method of the Model_Operation class.
+
+2022-01-20/19:55:27		Entered the load_model method of the Model_Operation class
+
+2022-01-20/19:55:27		Model File Random Forest loaded. Exited the load_model method of the Model_Finder class
+
+2022-01-20/19:56:01		Entered the find_correct_model_file method of the Model_Operation class
+
+2022-01-20/19:56:01		Exited the find_correct_model_file method of the Model_Operation class.
+
+2022-01-20/19:56:01		Entered the load_model method of the Model_Operation class
+
+2022-01-20/19:56:01		Model File Random Forest loaded. Exited the load_model method of the Model_Finder class

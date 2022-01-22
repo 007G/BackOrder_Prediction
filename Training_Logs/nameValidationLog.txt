@@ -1,0 +1,18 @@
+
+2021-12-28/20:58:35		Valid File name!! File moved to GoodRaw Folder :: BackOrder_28122021_110000.csv
+
+2021-12-28/20:58:37		Valid File name!! File moved to GoodRaw Folder :: BackOrder_28122021_110011.csv
+
+2022-01-05/20:21:54		Valid File name!! File moved to GoodRaw Folder :: BackOrder_08012020_120000.csv
+
+2022-01-05/21:29:02		Valid File name!! File moved to GoodRaw Folder :: BackOrder_08012020_120000.csv
+
+2022-01-05/21:43:52		Valid File name!! File moved to GoodRaw Folder :: BackOrder_08012020_120000.csv
+
+2022-01-05/21:44:55		Valid File name!! File moved to GoodRaw Folder :: BackOrder_08012020_120000.csv
+
+2022-01-05/21:49:42		Valid File name!! File moved to GoodRaw Folder :: BackOrder_08012020_120000.csv
+
+2022-01-07/22:13:46		Valid File name!! File moved to GoodRaw Folder :: BackOrder_28122021_110000.csv
+
+2022-01-07/22:13:48		Valid File name!! File moved to GoodRaw Folder :: BackOrder_28122021_110011.csv

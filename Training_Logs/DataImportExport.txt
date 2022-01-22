@@ -1,0 +1,50 @@
+
+2022-01-05/20:21:54		Entered Into Class : DataBaseOperations > DataInsertion 
+
+2022-01-05/20:21:54		Files found in Good Raw dirs  :['BackOrder_08012020_120000.csv']
+
+2022-01-05/20:21:55		Data Uploaded successfully ....
+
+2022-01-05/20:21:55		Entered Into Class : DataBaseOperations > DataImport 
+
+2022-01-05/20:22:21		 Data Imported in to file Training_FileFromDB/InputFile.csv
+
+2022-01-05/21:29:02		Entered Into Class : DataBaseOperations > DataInsertion 
+
+2022-01-05/21:29:02		Files found in Good Raw dirs  :['BackOrder_08012020_120000.csv']
+
+2022-01-05/21:29:03		Data Uploaded successfully ....
+
+2022-01-05/21:29:03		Entered Into Class : DataBaseOperations > DataImport 
+
+2022-01-05/21:29:43		 Data Imported in to file Training_FileFromDB/InputFile.csv
+
+2022-01-05/21:43:52		Entered Into Class : DataBaseOperations > DataInsertion 
+
+2022-01-05/21:43:52		Files found in Good Raw dirs  :['BackOrder_08012020_120000.csv']
+
+2022-01-05/21:43:53		Data Uploaded successfully ....
+
+2022-01-05/21:44:56		Entered Into Class : DataBaseOperations > DataInsertion 
+
+2022-01-05/21:44:56		Files found in Good Raw dirs  :['BackOrder_08012020_120000.csv']
+
+2022-01-05/21:44:57		Data Uploaded successfully ....
+
+2022-01-05/21:43:53		Entered Into Class : DataBaseOperations > DataImport 
+
+2022-01-05/21:45:09		 Data Imported in to file Training_FileFromDB/InputFile.csv
+
+2022-01-05/21:44:57		Entered Into Class : DataBaseOperations > DataImport 
+
+2022-01-05/21:46:03		 Data Imported in to file Training_FileFromDB/InputFile.csv
+
+2022-01-05/21:49:43		Entered Into Class : DataBaseOperations > DataInsertion 
+
+2022-01-05/21:49:43		Files found in Good Raw dirs  :['BackOrder_08012020_120000.csv']
+
+2022-01-05/21:49:44		Data Uploaded successfully ....
+
+2022-01-05/21:49:44		Entered Into Class : DataBaseOperations > DataImport 
+
+2022-01-05/21:50:37		 Data Imported in to file Training_FileFromDB/InputFile.csv

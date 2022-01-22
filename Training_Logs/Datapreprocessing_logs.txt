@@ -1,0 +1,316 @@
+
+2022-01-05/20:22:21		Entered the remove_columns method of the Preprocessor class
+
+2022-01-05/20:22:21		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+
+2022-01-05/20:22:21		Entered the encode_categorical_columns method of the Preprocessor class
+
+2022-01-05/20:22:21		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+
+2022-01-05/20:22:21		Entered the is_null_present method of the Preprocessor class
+
+2022-01-05/20:22:21		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+
+2022-01-05/20:22:21		Entered the separate_label_feature method of the Preprocessor class
+
+2022-01-05/20:22:21		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+
+2022-01-05/20:22:21		Entered the scale_numerical_columns method of the Preprocessor class
+
+2022-01-05/20:22:21		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+
+2022-01-05/20:22:21		Entered the handle_imbalanced_dataset method of the Preprocessor class
+
+2022-01-05/20:22:22		dataset balancing successful. Exited the handle_imbalanced_dataset method of the Preprocessor class
+
+2022-01-05/21:29:43		Entered the remove_columns method of the Preprocessor class
+
+2022-01-05/21:29:43		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+
+2022-01-05/21:29:43		Entered the encode_categorical_columns method of the Preprocessor class
+
+2022-01-05/21:29:43		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+
+2022-01-05/21:29:43		Entered the is_null_present method of the Preprocessor class
+
+2022-01-05/21:29:43		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+
+2022-01-05/21:29:43		Entered the separate_label_feature method of the Preprocessor class
+
+2022-01-05/21:29:43		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+
+2022-01-05/21:29:43		Entered the scale_numerical_columns method of the Preprocessor class
+
+2022-01-05/21:29:43		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+
+2022-01-05/21:29:43		Entered the handle_imbalanced_dataset method of the Preprocessor class
+
+2022-01-05/21:29:44		dataset balancing successful. Exited the handle_imbalanced_dataset method of the Preprocessor class
+
+2022-01-05/21:45:09		Entered the remove_columns method of the Preprocessor class
+
+2022-01-05/21:45:09		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+
+2022-01-05/21:45:09		Entered the encode_categorical_columns method of the Preprocessor class
+
+2022-01-05/21:45:09		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+
+2022-01-05/21:45:09		Entered the is_null_present method of the Preprocessor class
+
+2022-01-05/21:45:09		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+
+2022-01-05/21:45:09		Entered the separate_label_feature method of the Preprocessor class
+
+2022-01-05/21:45:09		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+
+2022-01-05/21:45:09		Entered the scale_numerical_columns method of the Preprocessor class
+
+2022-01-05/21:45:09		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+
+2022-01-05/21:45:09		Entered the handle_imbalanced_dataset method of the Preprocessor class
+
+2022-01-05/21:45:09		dataset balancing successful. Exited the handle_imbalanced_dataset method of the Preprocessor class
+
+2022-01-05/21:46:03		Entered the remove_columns method of the Preprocessor class
+
+2022-01-05/21:46:03		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+
+2022-01-05/21:46:03		Entered the encode_categorical_columns method of the Preprocessor class
+
+2022-01-05/21:46:03		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+
+2022-01-05/21:46:03		Entered the is_null_present method of the Preprocessor class
+
+2022-01-05/21:46:03		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+
+2022-01-05/21:46:03		Entered the separate_label_feature method of the Preprocessor class
+
+2022-01-05/21:46:03		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+
+2022-01-05/21:46:03		Entered the scale_numerical_columns method of the Preprocessor class
+
+2022-01-05/21:46:03		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+
+2022-01-05/21:46:03		Entered the handle_imbalanced_dataset method of the Preprocessor class
+
+2022-01-05/21:46:04		dataset balancing successful. Exited the handle_imbalanced_dataset method of the Preprocessor class
+
+2022-01-05/21:50:37		Entered the remove_columns method of the Preprocessor class
+
+2022-01-05/21:50:37		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+
+2022-01-05/21:50:37		Entered the encode_categorical_columns method of the Preprocessor class
+
+2022-01-05/21:50:37		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+
+2022-01-05/21:50:37		Entered the is_null_present method of the Preprocessor class
+
+2022-01-05/21:50:37		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+
+2022-01-05/21:50:37		Entered the separate_label_feature method of the Preprocessor class
+
+2022-01-05/21:50:37		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+
+2022-01-05/21:50:37		Entered the scale_numerical_columns method of the Preprocessor class
+
+2022-01-05/21:50:37		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+
+2022-01-05/21:50:37		Entered the handle_imbalanced_dataset method of the Preprocessor class
+
+2022-01-05/21:50:37		dataset balancing successful. Exited the handle_imbalanced_dataset method of the Preprocessor class
+
+2022-01-05/21:54:03		Entered the encode_categorical_columns method of the Preprocessor class
+
+2022-01-05/21:54:03		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+
+2022-01-12/00:43:35		Entered the encode_categorical_columns method of the Preprocessor class
+
+2022-01-12/00:43:35		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+
+2022-01-19/03:00:53		Entered the encode_categorical_columns method of the Preprocessor class
+
+2022-01-19/03:00:53		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+
+2022-01-19/03:08:44		Entered the encode_categorical_columns method of the Preprocessor class
+
+2022-01-19/03:08:44		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+
+2022-01-19/03:12:39		Entered the encode_categorical_columns method of the Preprocessor class
+
+2022-01-19/03:12:39		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+
+2022-01-19/03:14:39		Entered the encode_categorical_columns method of the Preprocessor class
+
+2022-01-19/03:14:39		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+
+2022-01-19/03:15:07		Entered the encode_categorical_columns method of the Preprocessor class
+
+2022-01-19/03:15:07		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+
+2022-01-19/03:19:17		Entered the encode_categorical_columns method of the Preprocessor class
+
+2022-01-19/03:19:17		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+
+2022-01-19/03:20:25		Entered the encode_categorical_columns method of the Preprocessor class
+
+2022-01-19/03:20:25		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+
+2022-01-19/03:26:38		Entered the encode_categorical_columns method of the Preprocessor class
+
+2022-01-19/03:26:38		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+
+2022-01-19/03:27:01		Entered the encode_categorical_columns method of the Preprocessor class
+
+2022-01-19/03:27:01		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+
+2022-01-19/03:27:47		Entered the encode_categorical_columns method of the Preprocessor class
+
+2022-01-19/03:27:47		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+
+2022-01-19/03:31:12		Entered the encode_categorical_columns method of the Preprocessor class
+
+2022-01-19/03:31:12		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+
+2022-01-19/03:32:07		Entered the encode_categorical_columns method of the Preprocessor class
+
+2022-01-19/03:32:07		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+
+2022-01-19/03:32:44		Entered the encode_categorical_columns method of the Preprocessor class
+
+2022-01-19/03:32:44		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+
+2022-01-19/03:33:10		Entered the encode_categorical_columns method of the Preprocessor class
+
+2022-01-19/03:33:10		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+
+2022-01-19/03:34:45		Entered the encode_categorical_columns method of the Preprocessor class
+
+2022-01-19/03:34:45		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+
+2022-01-19/03:35:21		Entered the encode_categorical_columns method of the Preprocessor class
+
+2022-01-19/03:35:21		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+
+2022-01-19/03:38:56		Entered the encode_categorical_columns method of the Preprocessor class
+
+2022-01-19/03:38:56		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+
+2022-01-19/03:40:40		Entered the encode_categorical_columns method of the Preprocessor class
+
+2022-01-19/03:40:40		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+
+2022-01-19/03:50:37		Entered the encode_categorical_columns method of the Preprocessor class
+
+2022-01-19/03:50:37		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+
+2022-01-20/01:26:55		Entered the encode_categorical_columns method of the Preprocessor class
+
+2022-01-20/01:26:55		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+
+2022-01-20/14:49:26		Entered the encode_categorical_columns method of the Preprocessor class
+
+2022-01-20/14:49:26		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+
+2022-01-20/15:23:09		Entered the encode_categorical_columns method of the Preprocessor class
+
+2022-01-20/15:23:09		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+
+2022-01-20/15:24:01		Entered the encode_categorical_columns method of the Preprocessor class
+
+2022-01-20/15:24:01		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+
+2022-01-20/15:24:12		Entered the encode_categorical_columns method of the Preprocessor class
+
+2022-01-20/15:24:12		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+
+2022-01-20/16:38:41		Entered the encode_categorical_columns method of the Preprocessor class
+
+2022-01-20/16:38:42		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+
+2022-01-20/16:40:36		Entered the encode_categorical_columns method of the Preprocessor class
+
+2022-01-20/16:40:36		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+
+2022-01-20/17:02:03		Entered the encode_categorical_columns method of the Preprocessor class
+
+2022-01-20/17:02:03		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+
+2022-01-20/17:07:59		Entered the encode_categorical_columns method of the Preprocessor class
+
+2022-01-20/17:07:59		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+
+2022-01-20/17:10:30		Entered the encode_categorical_columns method of the Preprocessor class
+
+2022-01-20/17:10:30		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+
+2022-01-20/17:17:31		Entered the encode_categorical_columns method of the Preprocessor class
+
+2022-01-20/17:17:31		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+
+2022-01-20/18:13:26		Entered the encode_categorical_columns method of the Preprocessor class
+
+2022-01-20/18:13:26		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+
+2022-01-20/18:15:06		Entered the encode_categorical_columns method of the Preprocessor class
+
+2022-01-20/18:15:06		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+
+2022-01-20/18:23:43		Entered the encode_categorical_columns method of the Preprocessor class
+
+2022-01-20/18:23:43		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+
+2022-01-20/18:26:16		Entered the encode_categorical_columns method of the Preprocessor class
+
+2022-01-20/18:26:16		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+
+2022-01-20/18:38:35		Entered the encode_categorical_columns method of the Preprocessor class
+
+2022-01-20/18:38:35		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+
+2022-01-20/18:48:34		Entered the encode_categorical_columns method of the Preprocessor class
+
+2022-01-20/18:48:34		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+
+2022-01-20/18:51:09		Entered the encode_categorical_columns method of the Preprocessor class
+
+2022-01-20/18:51:09		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+
+2022-01-20/18:52:10		Entered the encode_categorical_columns method of the Preprocessor class
+
+2022-01-20/18:52:10		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+
+2022-01-20/18:55:23		Entered the encode_categorical_columns method of the Preprocessor class
+
+2022-01-20/18:55:23		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+
+2022-01-20/19:28:58		Entered the encode_categorical_columns method of the Preprocessor class
+
+2022-01-20/19:28:58		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+
+2022-01-20/19:41:10		Entered the encode_categorical_columns method of the Preprocessor class
+
+2022-01-20/19:41:10		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+
+2022-01-20/19:54:36		Entered the encode_categorical_columns method of the Preprocessor class
+
+2022-01-20/19:54:36		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+
+2022-01-20/19:54:36		Entered the scale_numerical_columns method of the Preprocessor class
+
+2022-01-20/19:54:36		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+
+2022-01-20/19:55:27		Entered the encode_categorical_columns method of the Preprocessor class
+
+2022-01-20/19:55:27		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+
+2022-01-20/19:55:27		Entered the scale_numerical_columns method of the Preprocessor class
+
+2022-01-20/19:55:27		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+
+2022-01-20/19:56:01		Entered the encode_categorical_columns method of the Preprocessor class
+
+2022-01-20/19:56:01		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+
+2022-01-20/19:56:01		Entered the scale_numerical_columns method of the Preprocessor class
+
+2022-01-20/19:56:01		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class

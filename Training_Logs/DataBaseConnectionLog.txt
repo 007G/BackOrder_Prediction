@@ -1,0 +1,99 @@
+
+2021-12-28/20:58:24		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-12-28/20:58:24		Retrived DatabaseInfo :  
+ 	 	 	 	 	 	 	 DatabaseName : BackOrder_Prediction  
+ 	 	 	 	 	 	 	 client_id : IPgGjjLYUPjgonZcZJXEZlOo 
+  	 	 	 	 	 	 	 path_to_zip : secure-connect-backorder-prediction.zip 
+
+2021-12-28/20:58:24		entered into class : DBconnector
+
+2021-12-28/20:58:34		 DataBase Connected successfully....!
+
+2022-01-05/20:15:19		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-01-05/20:15:19		Retrived DatabaseInfo :  
+ 	 	 	 	 	 	 	 DatabaseName : BackOrder_Prediction  
+ 	 	 	 	 	 	 	 client_id : IPgGjjLYUPjgonZcZJXEZlOo 
+  	 	 	 	 	 	 	 path_to_zip : secure-connect-backorder-prediction.zip 
+
+2022-01-05/20:15:19		entered into class : DBconnector
+
+2022-01-05/20:15:22		Exception : Unable to connect to the metadata service at https://aff100da-dae9-4215-8bef-f752701e2ed9-ap-southeast-1.db.astra.datastax.com:29080/metadata. Check the cluster status in the cloud console. 
+
+2022-01-05/20:16:43		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-01-05/20:16:43		Retrived DatabaseInfo :  
+ 	 	 	 	 	 	 	 DatabaseName : BackOrder_Prediction  
+ 	 	 	 	 	 	 	 client_id : IPgGjjLYUPjgonZcZJXEZlOo 
+  	 	 	 	 	 	 	 path_to_zip : secure-connect-backorder-prediction.zip 
+
+2022-01-05/20:16:43		entered into class : DBconnector
+
+2022-01-05/20:16:52		 DataBase Connected successfully....!
+
+2022-01-05/20:21:45		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-01-05/20:21:45		Retrived DatabaseInfo :  
+ 	 	 	 	 	 	 	 DatabaseName : BackOrder_Prediction  
+ 	 	 	 	 	 	 	 client_id : IPgGjjLYUPjgonZcZJXEZlOo 
+  	 	 	 	 	 	 	 path_to_zip : secure-connect-backorder-prediction.zip 
+
+2022-01-05/20:21:45		entered into class : DBconnector
+
+2022-01-05/20:21:54		 DataBase Connected successfully....!
+
+2022-01-05/21:28:53		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-01-05/21:28:53		Retrived DatabaseInfo :  
+ 	 	 	 	 	 	 	 DatabaseName : BackOrder_Prediction  
+ 	 	 	 	 	 	 	 client_id : IPgGjjLYUPjgonZcZJXEZlOo 
+  	 	 	 	 	 	 	 path_to_zip : secure-connect-backorder-prediction.zip 
+
+2022-01-05/21:28:53		entered into class : DBconnector
+
+2022-01-05/21:29:01		 DataBase Connected successfully....!
+
+2022-01-05/21:43:42		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-01-05/21:43:42		Retrived DatabaseInfo :  
+ 	 	 	 	 	 	 	 DatabaseName : BackOrder_Prediction  
+ 	 	 	 	 	 	 	 client_id : IPgGjjLYUPjgonZcZJXEZlOo 
+  	 	 	 	 	 	 	 path_to_zip : secure-connect-backorder-prediction.zip 
+
+2022-01-05/21:43:42		entered into class : DBconnector
+
+2022-01-05/21:43:52		 DataBase Connected successfully....!
+
+2022-01-05/21:44:49		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-01-05/21:44:49		Retrived DatabaseInfo :  
+ 	 	 	 	 	 	 	 DatabaseName : BackOrder_Prediction  
+ 	 	 	 	 	 	 	 client_id : IPgGjjLYUPjgonZcZJXEZlOo 
+  	 	 	 	 	 	 	 path_to_zip : secure-connect-backorder-prediction.zip 
+
+2022-01-05/21:44:49		entered into class : DBconnector
+
+2022-01-05/21:44:55		 DataBase Connected successfully....!
+
+2022-01-05/21:49:34		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-01-05/21:49:34		Retrived DatabaseInfo :  
+ 	 	 	 	 	 	 	 DatabaseName : BackOrder_Prediction  
+ 	 	 	 	 	 	 	 client_id : IPgGjjLYUPjgonZcZJXEZlOo 
+  	 	 	 	 	 	 	 path_to_zip : secure-connect-backorder-prediction.zip 
+
+2022-01-05/21:49:34		entered into class : DBconnector
+
+2022-01-05/21:49:42		 DataBase Connected successfully....!
+
+2022-01-07/22:13:37		 Entered into : DBconnectionInfo-YamlParser..
+
+2022-01-07/22:13:37		Retrived DatabaseInfo :  
+ 	 	 	 	 	 	 	 DatabaseName : BackOrder_Prediction  
+ 	 	 	 	 	 	 	 client_id : IPgGjjLYUPjgonZcZJXEZlOo 
+  	 	 	 	 	 	 	 path_to_zip : secure-connect-backorder-prediction.zip 
+
+2022-01-07/22:13:37		entered into class : DBconnector
+
+2022-01-07/22:13:45		 DataBase Connected successfully....!

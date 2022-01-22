@@ -1,0 +1,162 @@
+
+2021-12-28/20:59:13		Replacing Missing Value by NULL 
+
+2021-12-28/20:59:28		 BackOrder_28122021_110000.csv: File Transformed successfully!!
+
+2021-12-28/20:59:42		 BackOrder_28122021_110011.csv: File Transformed successfully!!
+
+2022-01-05/20:16:52		
+
+
+
+2022-01-05/20:16:52		Training data Validation Process is started..
+
+2022-01-05/20:16:52		Connecting with database..
+
+2022-01-05/20:16:52		Exception  : 
+
+2022-01-05/20:21:54		Replacing Missing Value by NULL 
+
+2022-01-05/20:21:54		 BackOrder_08012020_120000.csv: File Transformed successfully!!
+
+2022-01-05/20:21:54		
+
+
+
+2022-01-05/20:21:54		Training data Validation Process is started..
+
+2022-01-05/20:21:54		Connecting with database..
+
+2022-01-05/20:21:54		Training Validation Process is completed ....
+
+2022-01-05/20:21:54		Database Operation  is Starting ....
+
+2022-01-05/20:21:54		Good Training Table Created Successfully....
+
+2022-01-05/20:21:54		 Inserting Good Data to the Table ....
+
+2022-01-05/20:21:55		Database Insertion is Completed ....
+
+2022-01-05/20:21:55		Existing Good_raw dir deleted bad data send to archieve..
+
+2022-01-05/20:21:55		Extracting the Good data  from Database....
+
+2022-01-05/20:22:21		Data Extraction is completed stored in Inputcsv.csv ....
+
+2022-01-05/21:29:02		Replacing Missing Value by NULL 
+
+2022-01-05/21:29:02		 BackOrder_08012020_120000.csv: File Transformed successfully!!
+
+2022-01-05/21:29:02		
+
+
+
+2022-01-05/21:29:02		Training data Validation Process is started..
+
+2022-01-05/21:29:02		Connecting with database..
+
+2022-01-05/21:29:02		Training Validation Process is completed ....
+
+2022-01-05/21:29:02		Database Operation  is Starting ....
+
+2022-01-05/21:29:02		Good Training Table Created Successfully....
+
+2022-01-05/21:29:02		 Inserting Good Data to the Table ....
+
+2022-01-05/21:29:03		Database Insertion is Completed ....
+
+2022-01-05/21:29:03		Existing Good_raw dir deleted bad data send to archieve..
+
+2022-01-05/21:29:03		Extracting the Good data  from Database....
+
+2022-01-05/21:29:43		Data Extraction is completed stored in Inputcsv.csv ....
+
+2022-01-05/21:43:52		Replacing Missing Value by NULL 
+
+2022-01-05/21:43:52		 BackOrder_08012020_120000.csv: File Transformed successfully!!
+
+2022-01-05/21:44:55		Replacing Missing Value by NULL 
+
+2022-01-05/21:44:55		 BackOrder_08012020_120000.csv: File Transformed successfully!!
+
+2022-01-05/21:43:52		
+
+
+
+2022-01-05/21:43:52		Training data Validation Process is started..
+
+2022-01-05/21:43:52		Connecting with database..
+
+2022-01-05/21:43:52		Training Validation Process is completed ....
+
+2022-01-05/21:43:52		Database Operation  is Starting ....
+
+2022-01-05/21:43:52		Good Training Table Created Successfully....
+
+2022-01-05/21:43:52		 Inserting Good Data to the Table ....
+
+2022-01-05/21:43:53		Database Insertion is Completed ....
+
+2022-01-05/21:43:53		Existing Good_raw dir deleted bad data send to archieve..
+
+2022-01-05/21:43:53		Extracting the Good data  from Database....
+
+2022-01-05/21:45:09		Data Extraction is completed stored in Inputcsv.csv ....
+
+2022-01-05/21:44:55		
+
+
+
+2022-01-05/21:44:55		Training data Validation Process is started..
+
+2022-01-05/21:44:55		Connecting with database..
+
+2022-01-05/21:44:55		Training Validation Process is completed ....
+
+2022-01-05/21:44:55		Database Operation  is Starting ....
+
+2022-01-05/21:44:56		Good Training Table Created Successfully....
+
+2022-01-05/21:44:56		 Inserting Good Data to the Table ....
+
+2022-01-05/21:44:57		Database Insertion is Completed ....
+
+2022-01-05/21:44:57		Existing Good_raw dir deleted bad data send to archieve..
+
+2022-01-05/21:44:57		Extracting the Good data  from Database....
+
+2022-01-05/21:46:03		Data Extraction is completed stored in Inputcsv.csv ....
+
+2022-01-05/21:49:42		Replacing Missing Value by NULL 
+
+2022-01-05/21:49:42		 BackOrder_08012020_120000.csv: File Transformed successfully!!
+
+2022-01-05/21:49:42		
+
+
+
+2022-01-05/21:49:42		Training data Validation Process is started..
+
+2022-01-05/21:49:42		Connecting with database..
+
+2022-01-05/21:49:42		Training Validation Process is completed ....
+
+2022-01-05/21:49:42		Database Operation  is Starting ....
+
+2022-01-05/21:49:43		Good Training Table Created Successfully....
+
+2022-01-05/21:49:43		 Inserting Good Data to the Table ....
+
+2022-01-05/21:49:44		Database Insertion is Completed ....
+
+2022-01-05/21:49:44		Existing Good_raw dir deleted bad data send to archieve..
+
+2022-01-05/21:49:44		Extracting the Good data  from Database....
+
+2022-01-05/21:50:37		Data Extraction is completed stored in Inputcsv.csv ....
+
+2022-01-07/22:14:19		Replacing Missing Value by NULL 
+
+2022-01-07/22:14:35		 BackOrder_28122021_110000.csv: File Transformed successfully!!
+
+2022-01-07/22:14:50		 BackOrder_28122021_110011.csv: File Transformed successfully!!
