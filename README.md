@@ -89,7 +89,7 @@ The main goal is to predict the whether a product comes in backorder or not base
  * Scikit-learn - Ml Models
  * Python
 
-# User InterFace 
+# User Inter Face 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 * Home 
