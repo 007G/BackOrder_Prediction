@@ -148,7 +148,11 @@ The main goal is to predict the whether a product comes in backorder or not base
 
 # Back Order Prediction Project Video 
 
-https://github.com/007G/BackOrder_Prediction/blob/561646ec92b92fefb61cf69385e018e9106b5a26/gitreadme_files/Project_video.mp4
+
+
+
+https://user-images.githubusercontent.com/29423976/151295010-df6a4a7d-cbb3-4f95-b6ee-e2a94cf1f978.mp4
+
 
 
 
