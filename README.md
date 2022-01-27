@@ -148,7 +148,7 @@ The main goal is to predict the whether a product comes in backorder or not base
 
 # Back Order Prediction Project Video 
 
-
+https://github.com/007G/BackOrder_Prediction/blob/561646ec92b92fefb61cf69385e018e9106b5a26/gitreadme_files/Project_video.mp4
 
 
 
@@ -211,13 +211,13 @@ If you find any bug , please raise an issue
 # Documentation
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[High Level Documentation]()
+[High Level Documentation](https://github.com/007G/BackOrder_Prediction/blob/561646ec92b92fefb61cf69385e018e9106b5a26/Docs/HLD.pdf)
 
-[Low Level Documentation]()
+[Low Level Documentation](https://github.com/007G/BackOrder_Prediction/blob/561646ec92b92fefb61cf69385e018e9106b5a26/Docs/LLD.pdf)
 
-[WireFrame]()
+[WireFrame](https://github.com/007G/BackOrder_Prediction/blob/561646ec92b92fefb61cf69385e018e9106b5a26/Docs/Wireframe.pdf)
 
-[Detail Project Report]()
+[Detail Project Report](https://github.com/007G/BackOrder_Prediction/blob/561646ec92b92fefb61cf69385e018e9106b5a26/Docs/DPR.pdf)
 
-[Architecture Documentation]()
+[Architecture Documentation](https://github.com/007G/BackOrder_Prediction/blob/561646ec92b92fefb61cf69385e018e9106b5a26/Docs/Architecture.pdf)
 
